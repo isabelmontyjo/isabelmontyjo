@@ -10,7 +10,3 @@ Sou uma Data Scientist com um fascínio por desvendar os mistérios do universo 
 I'm a Data Scientist with a fascination for unraveling the mysteries of the statistical universe. When I'm not exploring datasets, I love practicing yoga and meditation to keep my mind sharp and balanced. A fun detail from a Data Science project? Once, during an analysis of car sales in Australia, I discovered that red vehicles have a higher tendency to be sold during the Australian summer - a finding that made me appreciate the quirkiness of the down under car culture even more! Access my portfolio with the link above, where you'll find projects and academic information
 
  
-## Entre em Contato
-
-- Site: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/meu-nome/)
