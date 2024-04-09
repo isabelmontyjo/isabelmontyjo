@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome
+![Gif]( https://github.com/IsabelMontyjo/IsabelMontyjo/assets/166182599/800f476f-c14a-4b62-8a7e-da8f4d4ffba2)
 
-<!--
-**IsabelMontyjo/IsabelMontyjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Visit my portfolio](https://img.shields.io/badge/Visite meu portfólio-Blue.svg)](https://www.seuportfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou uma Data Scientist com um fascínio por desvendar os mistérios do universo estatístico. Quando não estou explorando conjuntos de dados, adoro praticar yoga e meditação para manter minha mente afiada e equilibrada. Um detalhe divertido de um projeto de Data Science? Certa vez, durante uma análise de vendas de carros na Austrália, descobri que os veículos vermelhos têm uma tendência maior de serem vendidos durante o verão australiano - uma descoberta que me fez apreciar ainda mais a peculiaridade da cultura automobilística 'down under'! Acesse meu portfólio com o link acima, onde encontrará projetos e informações acadêmicas.
+
+I'm a Data Scientist with a fascination for unraveling the mysteries of the statistical universe. When I'm not exploring datasets, I love practicing yoga and meditation to keep my mind sharp and balanced. A fun detail from a Data Science project? Once, during an analysis of car sales in Australia, I discovered that red vehicles have a higher tendency to be sold during the Australian summer - a finding that made me appreciate the quirkiness of the down under car culture even more! Access my portfolio with the link above, where you'll find projects and academic information
+
+ 
+## Entre em Contato
+
+- Site: [seuemail@example.com](mailto:seuemail@example.com)
+- LinkedIn: [Seu Nome](https://www.linkedin.com/in/meu-nome/)
