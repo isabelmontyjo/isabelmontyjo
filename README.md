@@ -1,6 +1,6 @@
 # Welcome
-![Gif]( https://github.com/isabelmontyjo/isabelmontyjo/(https://github.com/isabelmontyjo/isabelmontyjo/assets/166182599/4e27e9b7-2be4-43ee-a419-ca1b6bae23cd)
-)
+(https://github.com/isabelmontyjo/isabelmontyjo/assets/166182599/4e27e9b7-2be4-43ee-a419-ca1b6bae23cd)
+
 
 https://isabelmontyjoportfolio.github.io/
 
