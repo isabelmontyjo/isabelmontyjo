@@ -4,7 +4,7 @@
 
 
 
-https://isabelmontyjoportfolio.github.io/
+
 
 # About me 
 Sou uma Data Scientist com um fascínio por desvendar os mistérios do universo estatístico. Quando não estou explorando conjuntos de dados, adoro praticar yoga e meditação para manter minha mente afiada e equilibrada. Um detalhe divertido de um projeto de Data Science? Certa vez, durante uma análise de vendas de carros na Austrália, descobri que os veículos vermelhos têm uma tendência maior de serem vendidos durante o verão australiano - uma descoberta que me fez apreciar ainda mais a peculiaridade da cultura automobilística 'down under'! Acesse meu portfólio com o link acima, onde encontrará projetos e informações acadêmicas.
